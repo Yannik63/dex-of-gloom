@@ -1,5 +1,7 @@
 # Dex of Gloom
 
+Das Pokédex-Recherchetool.
+
 Kleine Fan-Webseite, um Pokédex-Einträge (Deutsch und Englisch) nach Stichwörtern, Pokémon-Namen, Typen und Generationen zu durchsuchen. Gedacht als Recherchewerkzeug.
 
 Die Seite ist eine einzelne Datei (`index.html`) ohne Server, ohne Tracking und ohne Cookies. Favoriten und Einstellungen werden nur im eigenen Browser gespeichert (localStorage) und nirgendwohin gesendet. Die einzige externe Verbindung sind die Pokémon-Bilder, die von GitHub geladen werden.
