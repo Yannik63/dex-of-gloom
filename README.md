@@ -4,8 +4,12 @@ Kleine Fan-Webseite, um Pokédex-Einträge (Deutsch und Englisch) nach Stichwör
 
 Die Seite ist eine einzelne Datei (`index.html`) ohne Server, ohne Tracking und ohne Cookies. Favoriten und Einstellungen werden nur im eigenen Browser gespeichert (localStorage) und nirgendwohin gesendet. Die einzige externe Verbindung sind die Pokémon-Bilder, die von GitHub geladen werden.
 
+---
+
 <img width="3790" height="1792" alt="dex-of-gloom-picture" src="https://github.com/user-attachments/assets/cf480407-dc3c-4edd-a599-cae5bd2384ad" />
 
+
+---
 
 ## Quellen und Rechte
 
